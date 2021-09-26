@@ -1,0 +1,8 @@
+body {
+    background-color: black;
+
+    font-family: Arial
+    color: white;
+    border: 5px outset white;
+    text-align: center;
+}
